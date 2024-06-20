@@ -1,0 +1,6 @@
+# Archivos y carpetas que se ignoran
+
+*.tmp
+*.log
+*.env
+node_modules/
